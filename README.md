@@ -37,7 +37,8 @@ app.listen(3000, () => {
 
 
 ### API details
-// TODO : Once the auth connected to your project by default it has some api's will update the API documentation soon.
+
+#### TODO : Once the auth connected to your project by default it has some api's will update the API documentation soon.
 
 ### License
 This code is provided under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it and modify it as needed.
