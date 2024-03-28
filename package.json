@@ -1,0 +1,24 @@
+{
+  "name": "nila-auth",
+  "version": "1.0.0",
+  "description": "Authentication package to implement basic authentication on single command",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "authentication",
+    "nilajs",
+    "nodejs auth"
+  ],
+  "author": "sivabharathy",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.1",
+    "mongoose-paginate-v2": "^1.8.0",
+    "nodemailer": "^6.9.12"
+  }
+}
